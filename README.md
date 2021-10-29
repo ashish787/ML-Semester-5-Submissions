@@ -8,7 +8,7 @@
 
 
 
-## **ML PRACTICALS**
+## **ML PRACTICALS** 💻
 
 Experiment 1 - 30 Days Of Code Challenge (HackerRank) 
 
@@ -31,3 +31,11 @@ Experiment 9 - Decision Tree with Cross Validation and Grid Search CV
 Experiment 10 - KNN implementation from scratch
 
 Experiment 11 - Naive Bayes implementation from scratch
+
+
+
+## **Kaggle Competitions** <img src="https://user-images.githubusercontent.com/54108664/139504052-a4cb7c65-778f-44d7-9bba-0bb7c47c4f59.png" width="20" height="20">
+
+Competition 1 - Predicting global video game sales
+
+Competition 2 - Classification of Pulsar star
