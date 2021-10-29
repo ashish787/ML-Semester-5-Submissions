@@ -34,7 +34,7 @@ Experiment 11 - Naive Bayes implementation from scratch
 
 
 
-## **KAGGLE COMPETITIONS** <img src="https://user-images.githubusercontent.com/54108664/139504689-f803de32-c5f0-4d4a-8f8c-6fb53cf19b2a.png" width="50" height="50">
+## **KAGGLE COMPETITIONS**🥇🥈🥉
 
 Competition 1 - Predicting global video game sales
 
