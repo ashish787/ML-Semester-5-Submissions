@@ -1,4 +1,4 @@
-# <img src="https://cdn-icons-png.flaticon.com/512/2103/2103626.png" width="200" height="200"> ML Semester 5 Submissions
+# ML Semester 5 Submissions
 
 ## A repository for all the experiments done in lab session, lecture notebooks, and in-class Kaggle competitions. 
 
